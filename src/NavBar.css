@@ -4,3 +4,26 @@
     align-items: center;
     width:100%;
 }
+
+.nav-link {
+    padding-right:.8rem;
+    opacity:.6;
+}
+
+.nav-link:hover{
+    opacity:1;
+}
+
+.nav-a-tag {
+    text-decoration:none;
+}
+
+.nav-bar-logo {
+    padding-left:1rem;
+}
+
+.nav-bar-right {
+    display:flex;
+    list-style: none;
+    padding-right:1rem;
+}
